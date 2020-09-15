@@ -1,5 +1,5 @@
 # Protonmail Themes
-A collection of protonmail themes I use personally
+Themes I make based on my current desktop color scheme
 
 ## Preview
 ### Dark Glare
